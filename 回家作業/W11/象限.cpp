@@ -19,7 +19,7 @@ int main(){
             cout << "On Axis\n";
             break;
         case -2:
-            cout << "On Ayis\n";
+            cout << "On Axis\n";
             break;
         case 1:
             cout << "On 1\n";
